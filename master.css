@@ -4,25 +4,6 @@ body
   background-color: #dff;
   margin: 5px;
 }
-body  > h1
-{
-  text-align: center;
-}
-
-.big-blog
-{
-  display: flex;
-}
-
-.blog1
-{
-  display: flex;
-}
-
-.blog2
-{
-  display: flex;
-}
 section
 {
   margin: 20px;
@@ -36,29 +17,17 @@ p
 
 .section1 h1
 {
-  text-align: center;
   font-weight: bold;
   font-size: 1.5rem;
-  /*background-color: red;
-  width: 50%;
-  margin: 0px 0px 0px 222px;
-  margin-top: 0px;
-  margin-right: 0px;
-    float: right;
-    text-align: center;
-    border-bottom: 2px solid black;
-    border-left: 2px solid black;*/
 }
 
 .section2 h1
 {
-  text-align: center;
   font-weight: bold;
   font-size: 1.5rem;
 }
 .section3 h1
 {
-  text-align: center;
   font-weight: bold;
   font-size: 1.5rem;
 }
@@ -99,25 +68,4 @@ p
 {
   visibility: visible;
 }
-  .big-blog
-  {
-    display: inline-block;
-  }
-
-  .blog1
-  {
-    display: block;
-  }
-  .blog2
-  {
-    display: block;
-  }
-  .section1,.section2
-  {
-    width: 100%;
-  }
-  .section3
-  {
-    width: 100%;
-  }
 }
